@@ -8,5 +8,7 @@ c = a + b
 
 # conflict version 1
 
+
 d = c
 
+# lovely boss
