@@ -5,4 +5,8 @@ a = 1
 b = 2
 c = a + b
 
+
 # conflict version 1
+
+d = c
+
